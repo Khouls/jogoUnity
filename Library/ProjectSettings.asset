@@ -603,6 +603,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -623,10 +625,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 9343ac2c-0792-4328-97e9-2095bc50c947
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: ClubeDeJogos
+  organizationId: unity_adt2lts-wfknfg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
